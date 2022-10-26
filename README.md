@@ -1,4 +1,4 @@
-# Vovid-19
+# Covid-19
 Coronavirus là một họ vi-rút có thể gây bệnh, có thể khiến cảm lạnh thông thường và ho trở bệnh nặng hơn. Hội chứng hô hấp Trung Đông (MERS-CoV) và Hội chứng hô hấp cấp tính nặng (SARS-CoV) là những trường hợp nghiêm trọng mà thế giới phải đối mặt.
 SARS-CoV-2 (n-coronavirus) SARS-CoV-2 (n-coronavirus) là loại virus mới thuộc họ coronavirus, được phát hiện lần đầu vào năm 2019, chưa được xác định ở người trước đây.
 
